@@ -1,0 +1,67 @@
+2020-02-23 17:46:31,343 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-23 17:46:54,901 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pabbi:SimpleAndCompoundIntrestEPAM:1.0-SNAPSHOT @ C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\pom.xml.
+2020-02-23 17:46:55,647 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleAndCompoundIntrestEPAM/src/main/java
+2020-02-23 17:46:55,656 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleAndCompoundIntrestEPAM/src/test/java
+2020-02-23 17:46:56,318 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-02-23 17:46:57,001 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:46:57,002 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\main\resources
+2020-02-23 17:46:57,004 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:46:57,005 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\test\resources
+2020-02-23 17:47:12,831 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:47:12,833 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\main\resources
+2020-02-23 17:47:12,833 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:47:12,835 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\test\resources
+2020-02-23 17:47:47,797 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:47:47,798 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\main\resources
+2020-02-23 17:47:47,800 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 17:47:47,801 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\test\resources
+2020-02-23 18:00:50,298 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-23 18:00:52,402 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:00:52,406 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\main\resources
+2020-02-23 18:00:52,410 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:00:52,412 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aparna\Desktop\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\Prabhakar-Iyyalasomayajula-CleanCode-Task1-EPAM-master\src\test\resources
+2020-02-23 18:01:32,282 [Worker-0: Creating project "SI_CI_cal"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SI_CI:SI_CI_cal:0.0.1-SNAPSHOT @ C:\Users\Aparna\Desktop\Aparna_cleancode_1\SI_CI_cal\pom.xml.
+2020-02-23 18:01:32,457 [Worker-0: Creating project "SI_CI_cal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/main/java
+2020-02-23 18:01:32,459 [Worker-0: Creating project "SI_CI_cal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/main/resources
+2020-02-23 18:01:32,460 [Worker-0: Creating project "SI_CI_cal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/test/java
+2020-02-23 18:01:32,460 [Worker-0: Creating project "SI_CI_cal"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/test/resources
+2020-02-23 18:01:32,906 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:01:32,912 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:01:32,913 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:01:32,915 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:02:14,962 [Worker-1: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pabbi:SimpleAndCompoundIntrestEPAM:1.0-SNAPSHOT @ C:\Users\Aparna\Desktop\Aparna_cleancode_1\SI_CI_cal\pom.xml.
+2020-02-23 18:02:15,060 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:02:15,064 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:02:15,065 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:02:15,067 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:02:40,004 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:02:40,010 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:02:40,011 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:02:40,012 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:15,522 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-23 18:03:15,918 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pabbi:SimpleAndCompoundIntrestEPAM:1.0-SNAPSHOT @ C:\Users\Aparna\Desktop\Aparna_cleancode_1\SI_CI_cal\pom.xml.
+2020-02-23 18:03:15,991 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/main/java
+2020-02-23 18:03:15,991 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/main/resources
+2020-02-23 18:03:15,997 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/test/java
+2020-02-23 18:03:15,997 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/test/resources
+2020-02-23 18:03:16,101 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-23 18:03:16,309 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:16,310 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:16,312 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:16,313 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:34,875 [Worker-11: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pabbi:SimpleAndCompoundIntrestEPAM:1.0-SNAPSHOT @ C:\Users\Aparna\Desktop\Aparna_cleancode_1\SI_CI_cal\pom.xml.
+2020-02-23 18:03:34,915 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:34,916 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:34,917 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:34,918 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:45,791 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-23 18:03:46,046 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.pabbi:SimpleAndCompoundIntrestEPAM:1.0-SNAPSHOT @ C:\Users\Aparna\Desktop\Aparna_cleancode_1\SI_CI_cal\pom.xml.
+2020-02-23 18:03:46,101 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/main/java
+2020-02-23 18:03:46,101 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/main/resources
+2020-02-23 18:03:46,102 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SI_CI_cal/src/test/java
+2020-02-23 18:03:46,102 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SI_CI_cal/src/test/resources
+2020-02-23 18:03:46,202 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-02-23 18:03:46,390 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:46,391 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-23 18:03:46,392 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-02-23 18:03:46,393 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;java&apos;&#x0D;&#x0A;- Original project: &apos;SimpleAndCompoundIntrestEPAM&apos;&#x0D;&#x0A;- Destination element: &apos;java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     CompoundIntrest.java&#x0D;&#x0A;     Deposit.java&#x0D;&#x0A;     SimpleIntrest.java&#x0D;&#x0A;     Client.java" description="Copy files" element1="src/main/java/CompoundIntrest.java" element2="src/main/java/Deposit.java" element3="src/main/java/SimpleIntrest.java" element4="src/main/java/Client.java" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1582461159728" target="/SI_CI_cal/src/main/java" units="0" version="1.0"/>
+</session>
